@@ -1,0 +1,5 @@
+D:\Jurnal_mod6\jurnal_mod6_1302213072\obj\Debug\net6.0\jurnal_mod6_1302213072.csproj.AssemblyReference.cache
+D:\Jurnal_mod6\jurnal_mod6_1302213072\obj\Debug\net6.0\jurnal_mod6_1302213072.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal_mod6\jurnal_mod6_1302213072\obj\Debug\net6.0\jurnal_mod6_1302213072.AssemblyInfoInputs.cache
+D:\Jurnal_mod6\jurnal_mod6_1302213072\obj\Debug\net6.0\jurnal_mod6_1302213072.AssemblyInfo.cs
+D:\Jurnal_mod6\jurnal_mod6_1302213072\obj\Debug\net6.0\jurnal_mod6_1302213072.csproj.CoreCompileInputs.cache
